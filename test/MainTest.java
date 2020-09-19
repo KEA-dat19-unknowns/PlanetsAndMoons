@@ -28,8 +28,5 @@ class MainTest {
         assertEquals(384400, m.getDistanceToOrbitKM());
     }
 
-    @Test
-    void moonsofplanets() {
-        if(m.orbit.contains(e.getName()))
-    }
+
 }
